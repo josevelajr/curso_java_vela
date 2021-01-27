@@ -16,5 +16,7 @@ public class Exercicio35 {
         } else {
             System.out.println("Boa noite");
         }
+        sc.close();
     }
+
 }
