@@ -17,5 +17,6 @@ public class Exercicio38 {
         }else {
             System.out.printf("O valor a ser pago é de R$ %.2f%n", planobasico);
         }
+        sc.close();
     }
 }
