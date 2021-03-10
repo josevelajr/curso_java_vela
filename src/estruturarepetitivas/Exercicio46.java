@@ -1,8 +1,10 @@
-import java.util.Locale;
+package estruturarepetitivas;
+
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Exercicio46 {
+
+    public void exercicio46(){
 
         int numeros;
         int soma = 0;
@@ -23,4 +25,3 @@ public class Main {
 
     }
 }
-
