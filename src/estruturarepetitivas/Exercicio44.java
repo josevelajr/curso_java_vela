@@ -1,8 +1,12 @@
+package estruturarepetitivas;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Exercicio44 {
+
+    public void exercicio35() {
+
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
@@ -17,6 +21,7 @@ public class Main {
         System.out.printf("PRECO = %.2f%n", preco);
 
         sc.close();
-    }
-}
 
+    }
+
+}
